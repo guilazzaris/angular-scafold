@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guilazzaris/angular-scafold/issues"
   },
-  "homepage": "https://github.com/guilazzaris/angular-scafold#readme"
+  "homepage": "https://github.com/guilazzaris/angular-scafold#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
